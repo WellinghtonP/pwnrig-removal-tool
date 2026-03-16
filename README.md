@@ -214,13 +214,3 @@ git push origin minha-feature
 Este projeto está licenciado sob a **MIT License**.
 
 ---
-
-# 👨‍💻 Autor
-
-**Wellinghton Fernando Armoa Pimenta**
-
-* Bacharelado em Ciência da Computação — UFMT
-* Segurança de Redes
-* Infraestrutura Linux
-* DevOps e Automação
-* Segurança de Sistemas
